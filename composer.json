@@ -1,0 +1,20 @@
+{
+    "name": "zibo/cycle2",
+    "description": "Zibo module to provide easy integration with cycle2.",
+    "version": "1.0.0",
+    "type": "zibo-module",
+    "website": "http://www.malsup.com/jquery/cycle2/",
+    "authors": [
+        {
+            "name": "Joris Vandeweerd",
+            "email": "joris@statik.be"
+        },
+        {
+            "name": "Bart Verbruggen",
+            "email": "bart@statik.be"
+        }
+    ],
+    "require": {
+        "zibo/composer.installer": "*"
+    }
+}
